@@ -1,7 +1,7 @@
 name = input("Enter your name: ")
 age = int(input("Enter your age: "))
 
-#input processing
+#input processing example
 while True:
     try:
         fav_num = int(input("Enter your favorite number: "))
