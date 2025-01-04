@@ -22,7 +22,7 @@ while True:
 
     answer = input("Do you want to check it again? (y/n)").strip().lower()
     if answer == 'n':
-        break;
+        break
     elif answer != 'y':
         print("Pridurok")
         break
