@@ -12,7 +12,7 @@ def prikol():
             print("Enter int value.")
 
     if n > 100:
-        print("Wow that's a big number!")
+        print("That's a big number!")
 
     for i in range(0, n+1, 2):
         print(i)
